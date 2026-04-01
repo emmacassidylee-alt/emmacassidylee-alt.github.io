@@ -1,8 +1,6 @@
 # Dependencies
 node_modules/
 
-# Build output
-dist/
 
 # Public assets (copied from src/assets during build)
 public/
