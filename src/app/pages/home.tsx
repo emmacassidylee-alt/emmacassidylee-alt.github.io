@@ -2,9 +2,9 @@ import { Link } from "react-router";
 import { TagChip } from "../components/tag-chip";
 import { ArrowRight } from "lucide-react";
 import sageLogoImg from "../../assets/sage-logo.png";
-import geLogoImg from "../../assets/sage-logo.png";
-import wurldtechLogoImg from "../../assets/sage-logo.png";
-import heroImage from "../../assets/sage-logo.png";
+import geLogoImg from "../../assets/ge-logo.png";
+import wurldtechLogoImg from "../../assets/wt-logo.png";
+import heroImage from "../../assets/hero.png";
 
 export function Home() {
   const companies = [
