@@ -1,14 +1,14 @@
 import { MediaFrame } from "../components/media-frame";
 import { BadgeCollage } from "../components/badge-collage";
 import { Mail, Linkedin, MapPin, ExternalLink } from "lucide-react";
-import imgProfilePhoto from "../../assets/998d50269078f69f1594e073affa6d6c689bae8d.png";
-import imgBadge1 from "../../assets/c19abefaa7e1fc9a06c59c14166d1559bc1ed3b9.png";
-import imgBadge2 from "../../assets/51196ddf7e28cb5d78bc978a039715703d9a542f.png";
-import imgBadge3 from "../../assets/edb2df30d124519f247187908eada784774471d6.png";
-import imgBadge4 from "../../assets/9cc05140c649269cd5e0d4788c7b5fa9fc14c07c.png";
-import imgBadge5 from "../../assets/3d0b0190d1baa5fefd14e641fb9c45df06b475a4.png";
-import imgBadge6 from "../../assets/4ce694221383f39f50708366cae88d9a7f32ec86.png";
-import imgYogaCert from "../../assets/4ce694221383f39f50708366cae88d9a7f32ec86.png";
+import imgProfilePhoto from "../../assets/emma-profile.png";
+import imgBadge1 from "../../assets/cert-badge-1.png";
+import imgBadge2 from "../../assets/cert-badge-2.png";
+import imgBadge3 from "../../assets/cert-badge-3.png";
+import imgBadge4 from "../../assets/cert-badge-4.png";
+import imgBadge5 from "../../assets/award-badge-2.png";
+import imgBadge6 from "../../assets/award-badge.png";
+import imgYogaCert from "../../assets/award-badge.png";
 
 export function About() {
   return (

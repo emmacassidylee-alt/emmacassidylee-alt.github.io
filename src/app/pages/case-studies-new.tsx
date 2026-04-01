@@ -1,15 +1,15 @@
-import imgMediaFrame from "../../assets/bea93815ebfaaf4bcb4379811116e2501353781c.png";
-import imgMediaFrame1 from "../../assets/648c8c8d721016bbd7360c4618cbaa49ebe8f8ba.png";
-import imgMediaFrame2 from "../../assets/0a2e8a1b31423dffb7748db739d6e279cb524e2f.png";
-import imgMediaFrame3 from "../../assets/75467e54047b93af4c6accb22defc17173d539be.png";
-import imgMediaFrame4 from "../../assets/db137c402c245f3ea30c0a5d36aeebe76c41ce12.png";
-import imgMediaFrame5 from "../../assets/ff820feec17c7c157e1b1f2ce363ecc7fc893e67.png";
-import imgMediaFrame6 from "../../assets/f56898ebe37e5501202dcc5a2f7d33a7d64eda17.png";
-import imgMediaFrame7 from "../../assets/9daabea0762e2e008164c666f6a9b88e23cc954c.png";
-import imgMediaFrame8 from "../../assets/19c9bd7926d6f89394fe3818d25aa61205ee39a5.png";
-import imgMediaFrame9 from "../../assets/07c8323dc729a164d26f84a89796259acd1ecc3f.png";
-import ibmLogo from "../../assets/615f803fe251abf07828ac1d19384998c42afe17.png";
-import sageLogo from "../../assets/ed9fddfa78dce24004d889365386d2dd73b1c056.png";
+import imgMediaFrame from "../../assets/gcm-sample-1.png";
+import imgMediaFrame1 from "../../assets/gcm-sample-2.png";
+import imgMediaFrame2 from "../../assets/gcm-sample-3.png";
+import imgMediaFrame3 from "../../assets/gdsc-sample-1.png";
+import imgMediaFrame4 from "../../assets/gdsc-sample-2.png";
+import imgMediaFrame5 from "../../assets/gdsc-sample-3.png";
+import imgMediaFrame6 from "../../assets/design-system-1.png";
+import imgMediaFrame7 from "../../assets/design-system-2.png";
+import imgMediaFrame8 from "../../assets/crm-help-1.png";
+import imgMediaFrame9 from "../../assets/crm-help-2.png";
+import ibmLogo from "../../assets/ibm-logo.png";
+import sageLogo from "../../assets/sage-logo.png";
 import { ArrowUp } from "lucide-react";
 
 export function CaseStudies() {

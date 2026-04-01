@@ -1,5 +1,5 @@
-import image_998d50269078f69f1594e073affa6d6c689bae8d from "../../assets/998d50269078f69f1594e073affa6d6c689bae8d.png";
-import yogaCert from "../../assets/4ce694221383f39f50708366cae88d9a7f32ec86.png";
+import image_998d50269078f69f1594e073affa6d6c689bae8d from "../../assets/emma-profile.png";
+import yogaCert from "../../assets/award-badge.png";
 import { ImageWithFallback } from "./figma/ImageWithFallback";
 
 type AspectRatio = "16:9" | "4:3" | "1:1" | "4:5";

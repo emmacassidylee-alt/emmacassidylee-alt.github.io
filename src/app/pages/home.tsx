@@ -1,10 +1,10 @@
 import { Link } from "react-router";
 import { TagChip } from "../components/tag-chip";
 import { ArrowRight } from "lucide-react";
-import sageLogoImg from "../../assets/ed9fddfa78dce24004d889365386d2dd73b1c056.png";
-import geLogoImg from "../../assets/ed9fddfa78dce24004d889365386d2dd73b1c056.png";
-import wurldtechLogoImg from "../../assets/ed9fddfa78dce24004d889365386d2dd73b1c056.png";
-import heroImage from "../../assets/ed9fddfa78dce24004d889365386d2dd73b1c056.png";
+import sageLogoImg from "../../assets/sage-logo.png";
+import geLogoImg from "../../assets/sage-logo.png";
+import wurldtechLogoImg from "../../assets/sage-logo.png";
+import heroImage from "../../assets/sage-logo.png";
 
 export function Home() {
   const companies = [
