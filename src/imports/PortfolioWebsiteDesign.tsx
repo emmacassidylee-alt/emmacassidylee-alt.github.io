@@ -1,13 +1,13 @@
 import clsx from "clsx";
 import svgPaths from "./svg-8eu12b60tc";
-import imgImageWithFallback from "998d50269078f69f1594e073affa6d6c689bae8d.png";
-import imgContainer from "c19abefaa7e1fc9a06c59c14166d1559bc1ed3b9.png";
-import imgContainer1 from "51196ddf7e28cb5d78bc978a039715703d9a542f.png";
-import imgContainer2 from "edb2df30d124519f247187908eada784774471d6.png";
-import imgContainer3 from "9cc05140c649269cd5e0d4788c7b5fa9fc14c07c.png";
-import imgContainer4 from "3d0b0190d1baa5fefd14e641fb9c45df06b475a4.png";
-import imgContainer5 from "bbf3d3ef086a94c49dbf6cf8591fe6aeb11e6037.png";
-import imgImageWithFallback1 from "4ce694221383f39f50708366cae88d9a7f32ec86.png";
+import imgImageWithFallback from "../assets/998d50269078f69f1594e073affa6d6c689bae8d.png";
+import imgContainer from "../assets/c19abefaa7e1fc9a06c59c14166d1559bc1ed3b9.png";
+import imgContainer1 from "../assets/51196ddf7e28cb5d78bc978a039715703d9a542f.png";
+import imgContainer2 from "../assets/edb2df30d124519f247187908eada784774471d6.png";
+import imgContainer3 from "../assets/9cc05140c649269cd5e0d4788c7b5fa9fc14c07c.png";
+import imgContainer4 from "../assets/3d0b0190d1baa5fefd14e641fb9c45df06b475a4.png";
+import imgContainer5 from "../assets/bbf3d3ef086a94c49dbf6cf8591fe6aeb11e6037.png";
+import imgImageWithFallback1 from "../assets/4ce694221383f39f50708366cae88d9a7f32ec86.png";
 type ContainerProps = {
   additionalClassNames?: string;
 };

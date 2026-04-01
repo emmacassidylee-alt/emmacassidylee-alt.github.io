@@ -1,5 +1,5 @@
-import dcuCrest from "af986e4a116f050fba9f5b939d7d41e7ba584404.png";
-import griffithCrest from "5c6e98ba7bcd16bf2a73e2fa20a98e6fa13b9ab1.png";
+import dcuCrest from "../../assets/af986e4a116f050fba9f5b939d7d41e7ba584404.png";
+import griffithCrest from "../../assets/5ee33a45d66bd9def4b840d2e8290d3db9e31841.png";
 
 interface CrestRowProps {
   crests: Array<{ src?: string; alt: string; width?: number }>;

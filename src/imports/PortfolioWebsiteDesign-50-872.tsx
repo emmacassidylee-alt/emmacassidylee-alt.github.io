@@ -1,13 +1,13 @@
 import clsx from "clsx";
 import svgPaths from "./svg-gnetv8lvzc";
-import imgContainer from "ece298d0ec2c16f10310d45724b276a6035cb503.png";
-import imgImageEmmaCassidy from "998d50269078f69f1594e073affa6d6c689bae8d.png";
-import imgImageAwardBadge from "4ce694221383f39f50708366cae88d9a7f32ec86.png";
-import imgImageCertificationBadge from "c19abefaa7e1fc9a06c59c14166d1559bc1ed3b9.png";
-import imgImageCertificationBadge1 from "51196ddf7e28cb5d78bc978a039715703d9a542f.png";
-import imgImageCertificationBadge2 from "edb2df30d124519f247187908eada784774471d6.png";
-import imgImageCertificationBadge3 from "9cc05140c649269cd5e0d4788c7b5fa9fc14c07c.png";
-import imgImageAwardBadge1 from "3d0b0190d1baa5fefd14e641fb9c45df06b475a4.png";
+import imgContainer from "../assets/ece298d0ec2c16f10310d45724b276a6035cb503.png";
+import imgImageEmmaCassidy from "../assets/998d50269078f69f1594e073affa6d6c689bae8d.png";
+import imgImageAwardBadge from "../assets/4ce694221383f39f50708366cae88d9a7f32ec86.png";
+import imgImageCertificationBadge from "../assets/c19abefaa7e1fc9a06c59c14166d1559bc1ed3b9.png";
+import imgImageCertificationBadge1 from "../assets/51196ddf7e28cb5d78bc978a039715703d9a542f.png";
+import imgImageCertificationBadge2 from "../assets/edb2df30d124519f247187908eada784774471d6.png";
+import imgImageCertificationBadge3 from "../assets/9cc05140c649269cd5e0d4788c7b5fa9fc14c07c.png";
+import imgImageAwardBadge1 from "../assets/3d0b0190d1baa5fefd14e641fb9c45df06b475a4.png";
 type LinkProps = {
   additionalClassNames?: string;
 };

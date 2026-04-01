@@ -1,9 +1,9 @@
 import clsx from "clsx";
 import svgPaths from "./svg-br17jdqixu";
-import imgContainer from "ece298d0ec2c16f10310d45724b276a6035cb503.png";
-import imgContainer1 from "295200df89a7bafdcca51c3317b3944257a47e4d.png";
-import imgContainer2 from "03781d75397e421ea7b6af942609e403e5e4738e.png";
-import imgContainer3 from "43826b9b51b5de98af1b43099ad1961f2554594e.png";
+import imgContainer from "../assets/ece298d0ec2c16f10310d45724b276a6035cb503.png";
+import imgContainer1 from "../assets/295200df89a7bafdcca51c3317b3944257a47e4d.png";
+import imgContainer2 from "../assets/03781d75397e421ea7b6af942609e403e5e4738e.png";
+import imgContainer3 from "../assets/43826b9b51b5de98af1b43099ad1961f2554594e.png";
 type AProps = {
   additionalClassNames?: string;
 };
